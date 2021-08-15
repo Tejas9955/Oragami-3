@@ -15,6 +15,7 @@ h3{color: ivory;}
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    padding: 100px;
 }
 
 .origami{
@@ -100,3 +101,7 @@ h3{color: ivory;}
  .origami:hover img{
      opacity: 0.33;
  }
+
+body{
+    background-color: #008080;
+}
